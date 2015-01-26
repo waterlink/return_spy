@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "return_spy"
   spec.version       = ReturnSpy::VERSION
   spec.authors       = ["Alexey Fedorov"]
-  spec.email         = ["alexey.fedorov@wimdu.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["waterlink000@gmail.com"]
+  spec.summary       = %q{Spies all return values from functions, allows to set up expectations on them}
+  spec.description   = %q{Spies all return values from functions, allows to set up expectations on them. Used majorly for debugging and code-finding.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
